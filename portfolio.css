@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: coda;
+    
+}
+
+.navbar {
+    background-color: rgb(10, 143, 12);
+    text-align: center;
+    padding: 20px;
+}
+
+.hero {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+}
+
+.blog-btn {
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.blog-btn a {
+    text-decoration: none;
+}
+
+.blog-btn:hover {
+    border: 1px solid blue;
+    background: transparent;
+}
+
+.about-section {
+    padding: 20px;
+    text-align: center;
+    
+}
