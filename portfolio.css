@@ -7,9 +7,11 @@
 }
 
 .navbar {
-    background-color: rgb(10, 143, 12);
+    background-color: rgb(55, 55, 226);
     text-align: center;
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .hero {
@@ -38,4 +40,18 @@
     padding: 20px;
     text-align: center;
     
+}
+
+.nav-link {
+    text-decoration: none;
+    color: wheat;
+    padding-right: 5px;
+}
+
+.hero-inner {
+    display: flex;
+}
+
+.hero-image {
+    width: 50%;
 }
